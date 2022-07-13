@@ -21,6 +21,6 @@
   + Ngôn ngữ c#
   + Thuật toán Dijkstra tìm đường đi ngắn nhất
 
-- Ứng dụng đặt vé xe khách
+- Ứng dụng đặt vé xe khách [sử dụng database QL_DatVeXeKhach]
   + Dùng android studio, Firebase
   + Ngôn ngữ: java
